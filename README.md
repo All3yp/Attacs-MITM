@@ -1,6 +1,11 @@
-# Ataque man-in-the-middle na rede TOR
+# Man-in-the-middle attack on the TOR network
 
-O material foi feito através de pesquisa, antes estava no meu gitlab privado e também divulguei em alguns fóruns, 
-mas resolvi colocá-lo no meu github para que todos possam ver.
 
-Não me responsabilizo por danos causados a terceiros, o material é para fins acadêmicos. 
+The material was done through surveys, before it was in my private gitlab and I also reported on some forums,
+but I decided to put it in my github for all to see.
+
+I am not liable for damages caused to third parties, the material is for academic purposes.
+
+(The Tutorial is in Portuguese.)
+
+----------------------------------------------------------------
